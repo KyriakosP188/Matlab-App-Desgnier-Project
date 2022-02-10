@@ -1,6 +1,6 @@
 # Matlab-App-Desgnier-Project
 
-This project is a basic epxerimentation with Matlab App Desgnier and consists of a friendly-use modern UI and its code to make it fully operational.
+This project is a basic experimentation with Matlab App Desgnier and consists of a friendly-use modern UI and its code to make it fully operational.
 
 In order to run the above code a MathWorks MATLAB, version R2021b environment is needed.
 
